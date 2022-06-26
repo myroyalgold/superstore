@@ -12,4 +12,4 @@ Super Store deals with selling of products base on this categories; Furniture, O
 #DataTransformation: before loading data to powerbi, i transformed the data to see if there is/are null or empty rows or colums in the data set given, i detected some of the queries has empty rows and columns which was clean.
 
 ---
-#FindingAndRecommendation:In sales reps table a name that is anonymous called "Organic" showcase, so i calculate the total sales with and without organic since its unknown. Copiers is the most profitable product. the region with the most sales is west. 2017 has the most sales and profits while california is most sales country.  
+#FindingAndRecommendation:In sales reps table a name that is anonymous called "Organic" showcase, so i calculate the total sales with and without organic since its unknown. Copiers is the most profitable product. the region with the most sales is west. 2017 has the most sales and profits while United Staete (california) is most sales country.  
